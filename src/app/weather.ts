@@ -10,8 +10,9 @@ export interface Weather {
     speed: number;
   };
   sys: {
-    countery: string;
+    country: string;
   };
+  name: string;
 }
 
 interface WeatherInfo {
