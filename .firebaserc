@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tempo-app-2855d": {
+      "hosting": {
+        "tempo-app": [
+          "tempo-app-2855d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tempo-app-2855d"
+  }
+}
